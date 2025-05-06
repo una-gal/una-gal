@@ -10,18 +10,18 @@ AI | MLOps | GenAI| LLMOps | [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP
 ### 2024
 * [PyLadies Entrepreneurs and Career Development](https://www.youtube.com/live/V73KeBCzXpM?feature=shared) - Panel discussion at PyLadiesCon - 07 December 2024
 * Think like a Data scientist - Roundtables leader at AI at Work Reshaping Work Conference - 24 October 2024
-* [5 ways to fail scaling MLOps and Responsible AI within your organisation](https://github.com/una-ai-mlops-agency/event-slides/blob/main/conferences/5-MLOps-fails.pdf) - Talk at Women+ in Data and AI Festival Berlin - 27 September 2024
+* [5 ways to fail scaling MLOps and Responsible AI within your organisation](https://github.com/una-gal/event-slides/blob/main/conferences/5-MLOps-fails.pdf) - Talk at Women+ in Data and AI Festival Berlin - 27 September 2024
 * PyLadies Amsterdam stand at PyData Amsterdam Conference - 19-20 September 2024
 * LLM Application Evaluation: Performance, Safety, and Compliance - Technical panel discussion at Microsoft - 02 September 2024
 * AI MVP Prototype Development - Workshop at WAI Accelerate - 23 August 2024
 * [Data Mesh: Theory vs reality](https://coalesce.io/podcast/ep-18-data-mesh-with-una-galyeva/) - Coffee With Coalesce Podcast - 14 August 2024
 * PyLadies stand at EuroPython Prague Conference - 10-12 July 2024
-* [GenAI Leap of faith from PoC to Production](https://github.com/una-ai-mlops-agency/event-slides/blob/main/conferences/GenAI-from-PoC-to-Prod.pdf) - Talk at European Women in Technology Conference- 26 June 2024
+* [GenAI Leap of faith from PoC to Production](https://github.com/una-gal/event-slides/blob/main/conferences/GenAI-from-PoC-to-Prod.pdf) - Talk at European Women in Technology Conference- 26 June 2024
 * AI Innovators: Harnessing Emerging Technologies for Business Evolution - Roundtable leader at The Next Web Conference - 20 June 2024
 * [AI in Finance 2024](https://github.com/pyladiesams/ai-in-finance-python-lecture-may2024) - Python hands-on lecture at UVA - 21 May 2024
 * [Combining the Technical and Business Perspectives for Data Mesh](https://open.spotify.com/episode/2zxRmiFwebvWH9YJkD4LBS) - Data Mesh Radio Podcast - 20 May 2024
 * Responsible AI Evening - Technical panel discussion at Microsoft - 28 February 2024
-* [The real value of data products and costs of building and maintaining them](https://github.com/una-ai-mlops-agency/event-slides/blob/main/meetups/Data-products-value.pdf) - Talk at Data Special Further Forward - 21 February 2024
+* [The real value of data products and costs of building and maintaining them](https://github.com/una-gal/event-slides/blob/main/meetups/Data-products-value.pdf) - Talk at Data Special Further Forward - 21 February 2024
 
 ### 2023
 * [5 ways to fail with time series](https://youtu.be/5jOW6baXYI4?feature=shared) - Talk at PyData Eindhoven Conference- 30 November 2023
@@ -34,11 +34,11 @@ AI | MLOps | GenAI| LLMOps | [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP
 * [AI in Finance 2023](https://github.com/pyladiesams/ai-in-finance-python-lecture-may2023) - Python hands-on lecture at UVA - 23 May 2023
   
 ### 2022
-* [ML Best Practices](https://github.com/una-ai-mlops-agency/event-slides/blob/main/meetups/ML-Best-practices.pdf) - Talk at Thoughtworks - 22 December 2022
+* [ML Best Practices](https://github.com/una-gal/event-slides/blob/main/meetups/ML-Best-practices.pdf) - Talk at Thoughtworks - 22 December 2022
 * [An Introduction to Model Drift](https://github.com/pyladiesams/model-drift-beginner-dec2022) - Workshop at PyLadies Amsterdam - 21 December 2022
 * Data Mesh: Unlocking data insights at scale responsibly - Talk at Royal HaskoningDHV - 28 October 2022
 * Mentor at Django Girls Amsterdam - 16 September 2022
-* [Journey to the cloud: Best practices for Data and AI scaling within Enterprise](https://github.com/una-ai-mlops-agency/event-slides/blob/main/conferences/Data-AI-scaling.pdf) - Talk at Big Data Expo Conference - 14 September 2022
+* [Journey to the cloud: Best practices for Data and AI scaling within Enterprise](https://github.com/una-gal/event-slides/blob/main/conferences/Data-AI-scaling.pdf) - Talk at Big Data Expo Conference - 14 September 2022
 * [AI in Finance 2022](https://github.com/pyladiesams/ai-in-finance-python-lecture-beginner-may2022) - Python hands-on lecture at UVA - 23 May 2022
 * [Start using Data Models: Outsmart your financial industry competitors today](https://youtu.be/6psIoLqh4wY?feature=shared) - Panel Discussion at Studio LinkIT - 26 April 2022
 
@@ -53,7 +53,7 @@ AI | MLOps | GenAI| LLMOps | [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP
 * Technical panel discussion at pre-FOSDEM - 03 February 2021
 
 ### 2020
-* [AI in Finance: On the way to financial singularity](https://github.com/una-ai-mlops-agency/event-slides/blob/main/meetups/AI-in-Finance.pdf) - Talk at ABN AMRO Digital Grid - 19 November 2020 
+* [AI in Finance: On the way to financial singularity](https://github.com/una-gal/event-slides/blob/main/meetups/AI-in-Finance.pdf) - Talk at ABN AMRO Digital Grid - 19 November 2020 
 * [The Hitchhiker's Guide to the Machine Learning Engineering Galaxy](https://gitnation.com/person/alyona_galyeva/certificates) - Workshop at MLConfEU - 05 November 2020
 * Jury for WAI Datathon - 12 October 2020
 * [Human-like Visual Search Application with Small Data](https://youtu.be/2l_WASP1_1A?feature=shared) - Workshop at PyData Global Conference - 08 September 2020
@@ -70,13 +70,13 @@ AI | MLOps | GenAI| LLMOps | [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP
 * The undeniable bias in AI - Technical panel discussion at WiT Regatta March Pop-Up - 21 March 2019
 * The story of bleeding-edge technologies - Technical panel discussion at WiT Regatta February Pop-Up - 12 February 2019
   
-
 ## Events as an organiser
 
 ### Workshops 2025
 * [Open source, open pipelines: Data ingestion with modern data stack](https://github.com/pyladiesams/data-ingestion-modern-stack-apr2025) - 29 April 2025 
 * [Introduction to BDD in Python](https://github.com/pyladiesams/bdd-with-python-mar2025) - 31 March 2025
 * [Global AI Bootcamp](https://github.com/pyladiesams/global-ai-bootcamp-mar2025) - 04 March 2025
+* [Evaluating LLM-based applications](https://github.com/pyladiesams/eval-llm-based-apps-jan2025) - 16 January 2025
   
 ### Workshops 2024
 * [Introduction to Data Storytelling](https://github.com/pyladiesams/intro-data-storytelling-dec2024) - 07 December 2024
@@ -111,6 +111,7 @@ AI | MLOps | GenAI| LLMOps | [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP
 * [PyLadies Amsterdam + MLOps.Community Meetup](https://github.com/pyladiesams/mlops-event-feb2023) - 23 February 2023
 
 ### Workshops 2022
+* [An Introduction to Model Drift](https://github.com/pyladiesams/model-drift-beginner-dec2022) - 21 December 2022
 * [Deep Learning with PyTorch](https://github.com/pyladiesams/deepLearningPyTorch-beginner-nov2022) - 30 November 2022
 * [Global AI Developer Days](https://github.com/pyladiesams/global-ai-developer-days-beginner-oct2022) - 31 October 2022
 * [An introduction to cloud-native web applications](https://github.com/pyladiesams/cloud-native-web-app-beginner-aug2022) - 17 August 2022
@@ -128,6 +129,11 @@ AI | MLOps | GenAI| LLMOps | [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP
 * [An Introduction to Fairness in Machine Learning using Fairlearn](https://github.com/pyladiesams/ml-fairness-beginner-nov2021) - 24 November 2021
 * Global AI Back Together - 20 October 2021
 * [An Introduction to Product List Sorting](https://github.com/pyladiesams/product-sorting-beginner-sep2021) - 29 September 2021
+* [Bringing ML Models into Production Bootcamp - Capstone results](https://github.com/pyladiesams/bootcamp-bringing-ML-models-into-production-intermediary-jun-aug2021) - 07 August 2021
+* [Bringing ML Models into Production Bootcamp - Lesson 4](https://github.com/pyladiesams/bootcamp-bringing-ML-models-into-production-intermediary-jun-aug2021) - 21 July 2021
+* [Bringing ML Models into Production Bootcamp - Lesson 3](https://github.com/pyladiesams/bootcamp-bringing-ML-models-into-production-intermediary-jun-aug2021) - 14 July 2021
+* [Bringing ML Models into Production Bootcamp - Lesson 2](https://github.com/pyladiesams/bootcamp-bringing-ML-models-into-production-intermediary-jun-aug2021) - 07 July 2021
+* [Bringing ML Models into Production Bootcamp - Lesson 1](https://github.com/pyladiesams/bootcamp-bringing-ML-models-into-production-intermediary-jun-aug2021) - 30 June 2021
 * [An introduction to Web Scraping with Python and Azure Functions](https://github.com/pyladiesams/web-scraping-beginner-may2021) - 26 May 2021
 * [Easy Fairish: Basics of Classification and Bias](https://github.com/pyladiesams/classification-bias-beginner-apr2021) - 21 April 2021
 * [An introduction to delivering technical presentations with confidence](https://github.com/pyladiesams/tech-presentations-beginner-mar2021) - 25 March 2021
@@ -141,6 +147,7 @@ AI | MLOps | GenAI| LLMOps | [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP
 * [Introduction to TF-Hub & Object Detection using TF-Hub](https://github.com/pyladiesams/tf-hub-beginner-oct2020) - 22 October 2020
 * [Data Interpretation evening](https://github.com/pyladiesams/data-interpretation-beginner-sep2020) - 30 September 2020
 * [Interactive Data Visualisation with Bokeh](https://github.com/pyladiesams/Bokeh-visualisation-beginner-aug2020) - 26 August 2020
+* [Jupyter Refactoring Workshop](https://github.com/pyladiesams/Jupyter-refactoring-beginner-jul2020) - 29 July 2020
 * [Python Bootcamp Data Analysis for Beginners - Capstone](https://github.com/pyladiesams/Bootcamp-Data-Analysis-beginner-apr-may2020) - 03 June 2020
 * [Python Bootcamp Data Analysis for Beginners - Lesson 4](https://github.com/pyladiesams/Bootcamp-Data-Analysis-beginner-apr-may2020) - 27 May 2020
 * [Python Bootcamp Data Analysis for Beginners - Lesson 3](https://github.com/pyladiesams/Bootcamp-Data-Analysis-beginner-apr-may2020) - 13 May 2020
