@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+About me is coming soon ...
+
 ## Events 
 
 ### Conferences
