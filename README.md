@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-AI | MLOps | GenAI| LLMOps| [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/651e811d-f4a7-eb11-b1ac-000d3a53daf4) | [PyLadies Amsterdam](https://amsterdam.pyladies.com/) Org | [AI4ALL](https://aifourall.org/) Advisory Board
+AI | MLOps | GenAI| LLMOps | [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/651e811d-f4a7-eb11-b1ac-000d3a53daf4) | [PyLadies Amsterdam](https://amsterdam.pyladies.com/) Org | [AI4ALL](https://aifourall.org/) Advisory Board
 
 ## Events as a speaker and workshop giver
 
