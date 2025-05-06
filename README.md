@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I do AI | MLOps | GenAI | LLMOps | Strategy 
+I ❤️ AI | MLOps | GenAI | LLMOps | Strategy 
 
-I am [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/651e811d-f4a7-eb11-b1ac-000d3a53daf4) | [PyLadies Amsterdam](https://amsterdam.pyladies.com/) Org | [AI4ALL](https://aifourall.org/) Advisory Board
+I 👩‍💼 [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/651e811d-f4a7-eb11-b1ac-000d3a53daf4) | [PyLadies Amsterdam](https://amsterdam.pyladies.com/) Org | [AI4ALL](https://aifourall.org/) Advisory Board member
 
 ## Events as a speaker and workshop giver
 
