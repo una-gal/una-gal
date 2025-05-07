@@ -89,11 +89,9 @@
 * [NLP projects with spaCy](https://github.com/pyladiesams/nlp-projects-with-spacy-may2024) - 29 May 2024
 * [An Introduction to RAG with Elastic](https://github.com/pyladiesams/intro-RAG-elastic-apr2024) - 23 April 2024
 * [Global AI Bootcamp](https://github.com/pyladiesams/global-ai-bootcamp-mar2024) - 27 March 2024
+* [Python Open Source Sprints](https://github.com/pyladiesams/python-oss-sprints-mar2024) - 23 March 2024
 * [Fine-tuning text-to-image diffusion models for personalization and more](https://github.com/pyladiesams/personalization-with-text-to-image-diffusion-models-feb2024) - 29 February 2024
 * [An introduction to conformal prediction](https://github.com/pyladiesams/conformal-prediction-jan2024) - 25 January 2024
-
-### Talks 2024
-* [Python Open Source Sprints](https://github.com/pyladiesams/python-oss-sprints-mar2024) - 23 March 2024
 
 ### Workshops 2023
 * [Privacy-Aware Machine Learning and Data Science](https://github.com/pyladiesams/privacy-aware-ml-ds-nov2023) - 28 November 2023
