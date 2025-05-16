@@ -76,6 +76,7 @@
 ## Events as an organiser
 
 ### Workshops 2025
+* [Dapr in Action: From Core Concepts to AI Agents](https://github.com/pyladiesams/dapr-in-action-may2025) - 27 May 2025
 * [Open source, open pipelines: Data ingestion with modern data stack](https://github.com/pyladiesams/data-ingestion-modern-stack-apr2025) - 29 April 2025 
 * [Introduction to BDD in Python](https://github.com/pyladiesams/bdd-with-python-mar2025) - 31 March 2025
 * [Global AI Bootcamp](https://github.com/pyladiesams/global-ai-bootcamp-mar2025) - 04 March 2025
