@@ -6,6 +6,8 @@
 ## Events as a speaker and workshop giver
 
 ### 2025
+* [AI in Finance 2025](https://github.com/pyladiesams/ai-in-finance-python-lecture-may2025) - Python hands-on lecture at UVA - 21 May 2025
+* [Metrics and early traction for startups](https://github.com/una-gal/event-slides/blob/main/others/Metrics-early-traction.pdf) - Workshop for AI4ALL Women Entrepreneur Program - 05 May 2025
 * [Evaluating LLM-based applications](https://github.com/pyladiesams/eval-llm-based-apps-jan2025) - Workshop at PyLadies Hamburg/Amsterdam - 16 January 2025
 
 ### 2024
@@ -14,7 +16,7 @@
 * [5 ways to fail scaling MLOps and Responsible AI within your organisation](https://github.com/una-gal/event-slides/blob/main/conferences/5-MLOps-fails.pdf) - Talk at Women+ in Data and AI Festival Berlin - 27 September 2024
 * PyLadies Amsterdam stand at PyData Amsterdam Conference - 19-20 September 2024
 * LLM Application Evaluation: Performance, Safety, and Compliance - Technical panel discussion at Microsoft - 02 September 2024
-* AI MVP Prototype Development - Workshop at WAI Accelerate - 23 August 2024
+* [AI MVP Prototype Development](https://github.com/una-gal/event-slides/blob/main/others/MVP-prototype.pdf) - Workshop at WAI Accelerate - 23 August 2024
 * [Data Mesh: Theory vs reality](https://coalesce.io/podcast/ep-18-data-mesh-with-una-galyeva/) - Coffee With Coalesce Podcast - 14 August 2024
 * PyLadies stand at EuroPython Prague Conference - 10-12 July 2024
 * [GenAI Leap of faith from PoC to Production](https://github.com/una-gal/event-slides/blob/main/conferences/GenAI-from-PoC-to-Prod.pdf) - Talk at European Women in Technology Conference- 26 June 2024
