@@ -6,6 +6,8 @@
 ## Events as a speaker and workshop giver
 
 ### 2025
+* Agentic AI Roundtable - Technical roundtable discussion participant - 09 July 2025
+* [Choose Your Own Workshop at DCND 2025](https://github.com/pyladiesams/workshop-of-choice-dcnd-jul2025) - Workshops of choice at Dutch Cloud Native Day - 03 July 2025
 * [AI in Finance 2025](https://github.com/pyladiesams/ai-in-finance-python-lecture-may2025) - Python hands-on lecture at UVA - 21 May 2025
 * [Metrics and early traction for startups](https://github.com/una-gal/event-slides/blob/main/others/Metrics-early-traction.pdf) - Workshop for AI4ALL Women Entrepreneur Program - 05 May 2025
 * [Evaluating LLM-based applications](https://github.com/pyladiesams/eval-llm-based-apps-jan2025) - Workshop at PyLadies Hamburg/Amsterdam - 16 January 2025
@@ -76,12 +78,16 @@
 ## Events as an organiser
 
 ### Workshops 2025
+* [ScaleDown: Optimize AI prompts to reduce verbosity and carbon footprint](https://github.com/pyladiesams/optimize-ai-prompts-jun2025) - 26 June 2025
 * [Dapr in Action: From Core Concepts to AI Agents](https://github.com/pyladiesams/dapr-in-action-may2025) - 27 May 2025
 * [Open source, open pipelines: Data ingestion with modern data stack](https://github.com/pyladiesams/data-ingestion-modern-stack-apr2025) - 29 April 2025 
 * [Introduction to BDD in Python](https://github.com/pyladiesams/bdd-with-python-mar2025) - 31 March 2025
 * [Global AI Bootcamp](https://github.com/pyladiesams/global-ai-bootcamp-mar2025) - 04 March 2025
 * [Evaluating LLM-based applications](https://github.com/pyladiesams/eval-llm-based-apps-jan2025) - 16 January 2025
-  
+
+### Talks 2025
+*[AI in action: From ML models to games](https://github.com/pyladiesams/ai-in-action-from-ml-models-to-games-jul2025) - 15 July 2025
+
 ### Workshops 2024
 * [Introduction to Data Storytelling](https://github.com/pyladiesams/intro-data-storytelling-dec2024) - 07 December 2024
 * [LLMs in Action: How Booking.com Scans, Detects, & Monitors Fake & Unsafe Content](https://github.com/pyladiesams/llms-scan-reviews-nov2024) - 20 November 2024
