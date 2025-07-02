@@ -86,7 +86,7 @@
 * [Evaluating LLM-based applications](https://github.com/pyladiesams/eval-llm-based-apps-jan2025) - 16 January 2025
 
 ### Talks 2025
-*[AI in action: From ML models to games](https://github.com/pyladiesams/ai-in-action-from-ml-models-to-games-jul2025) - 15 July 2025
+* [AI in action: From ML models to games](https://github.com/pyladiesams/ai-in-action-from-ml-models-to-games-jul2025) - 15 July 2025
 
 ### Workshops 2024
 * [Introduction to Data Storytelling](https://github.com/pyladiesams/intro-data-storytelling-dec2024) - 07 December 2024
