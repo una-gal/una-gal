@@ -7,7 +7,7 @@
 
 ### 2025
 * PyLadies Amsterdam stand at PyData Amsterdam Conference - 25-26 September 2025
-* Pypodcat podcast recording - Soon 
+* Hidden Figures of Python: Pypodcats podcast recording - Soon 
 * Agentic AI Roundtable - Technical roundtable discussion participant - 09 July 2025
 * [Choose Your Own Workshop at DCND 2025](https://github.com/pyladiesams/workshop-of-choice-dcnd-jul2025) - Workshops of choice at Dutch Cloud Native Day - 03 July 2025
 * [AI in Finance 2025](https://github.com/pyladiesams/ai-in-finance-python-lecture-may2025) - Python hands-on lecture at UVA - 21 May 2025
