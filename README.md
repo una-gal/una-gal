@@ -6,6 +6,8 @@
 ## Events as a speaker and workshop giver
 
 ### 2025
+* PyLadies Amsterdam stand at PyData Amsterdam Conference - 25-26 September 2025
+* Pypodcat podcast recording - Soon 
 * Agentic AI Roundtable - Technical roundtable discussion participant - 09 July 2025
 * [Choose Your Own Workshop at DCND 2025](https://github.com/pyladiesams/workshop-of-choice-dcnd-jul2025) - Workshops of choice at Dutch Cloud Native Day - 03 July 2025
 * [AI in Finance 2025](https://github.com/pyladiesams/ai-in-finance-python-lecture-may2025) - Python hands-on lecture at UVA - 21 May 2025
@@ -78,6 +80,7 @@
 ## Events as an organiser
 
 ### Workshops 2025
+* [Data science that ships: production-ready pipelines with Kedro](https://github.com/pyladiesams/kedro-prod-ready-ds-pipelines-aug2025) - 26 August 2025
 * [ScaleDown: Optimize AI prompts to reduce verbosity and carbon footprint](https://github.com/pyladiesams/optimize-ai-prompts-jun2025) - 26 June 2025
 * [Dapr in Action: From Core Concepts to AI Agents](https://github.com/pyladiesams/dapr-in-action-may2025) - 27 May 2025
 * [Open source, open pipelines: Data ingestion with modern data stack](https://github.com/pyladiesams/data-ingestion-modern-stack-apr2025) - 29 April 2025 
