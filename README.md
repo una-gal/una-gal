@@ -1,13 +1,13 @@
 ## Hi there 👋
 
 - ❤️ AI | MLOps | GenAI | LLMOps | Strategy 
-- 🧠 [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/651e811d-f4a7-eb11-b1ac-000d3a53daf4) | [PyLadies Amsterdam](https://amsterdam.pyladies.com/) Org | [AI4ALL](https://aifourall.org/) Advisory Board member
+- 🧠 Head of Artificial Intelligence | [PyLadies Amsterdam](https://amsterdam.pyladies.com/) | [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/651e811d-f4a7-eb11-b1ac-000d3a53daf4) | [AI4ALL](https://aifourall.org/) Advisory Board member
 
 ## Events as a speaker and workshop giver
 
 ### 2025
-* PyLadies Amsterdam stand at PyData Amsterdam Conference - 25-26 September 2025
 * [Hidden Figures of Python podcast: Episode 10](https://pypodcats.live/episodes/ep-10/) - 26 September 2025
+* PyLadies Amsterdam stand at [PyData Amsterdam Conference](https://amsterdam.pydata.org/) - 25-26 September 2025
 * Agentic AI Roundtable - Technical roundtable discussion participant - 09 July 2025
 * [Choose Your Own Workshop at DCND 2025](https://github.com/pyladiesams/workshop-of-choice-dcnd-jul2025) - Workshops of choice at Dutch Cloud Native Day - 03 July 2025
 * [AI in Finance 2025](https://github.com/pyladiesams/ai-in-finance-python-lecture-may2025) - Python hands-on lecture at UVA - 21 May 2025
