@@ -5,6 +5,8 @@
 
 ## Events as a speaker and workshop giver
 
+### 2026
+
 ### 2025
 * [Metrics, Traction & AI — Building Your 2026 Growth Strategy](https://github.com/una-gal/event-slides/blob/main/others/Metrics-traction-AI.pdf) - Workshop at Imaguru Startup Hub - 22 December 2025
 * [Practical GenAI with Python: Beyond the Hype](https://www.youtube.com/live/-6kbMY_mOzw?si=YvP107tY38AXtMCQ) - Panel discussion at PyLadiesCon - 06 December 2025
@@ -81,7 +83,12 @@
   
 ## Events as an organiser
 
+### Workshops 2026
+* [Robotics beginner class with MicroPython](https://github.com/pyladiesams/robotics-with-micropython-jan2026) - 27 January 2026 
+
 ### Workshops 2025
+* [Building an AI Agent](https://github.com/pyladiesams/building-ai-agents-nov2025) - 25 November 2025
+* [Lightweight Analytics at Scale: Hands-On with DuckDB & Smallpond in Python](https://github.com/pyladiesams/lightweight-analytics-duckdb-smallpond-oct2025) - 23 October 2025
 * [Building data pipelines with dbt Core and Snowflake](https://github.com/pyladiesams/data-pipelines-with-dbtcore-snowflake-sep2025) - 30 September 2025
 * [Data science that ships: production-ready pipelines with Kedro](https://github.com/pyladiesams/kedro-prod-ready-ds-pipelines-aug2025) - 26 August 2025
 * [ScaleDown: Optimize AI prompts to reduce verbosity and carbon footprint](https://github.com/pyladiesams/optimize-ai-prompts-jun2025) - 26 June 2025
