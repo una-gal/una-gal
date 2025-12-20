@@ -6,6 +6,8 @@
 ## Events as a speaker and workshop giver
 
 ### 2025
+* [Metrics, Traction & AI — Building Your 2026 Growth Strategy](https://github.com/una-gal/event-slides/blob/main/others/Metrics-traction-AI.pdf) - Workshop for Imaguru Startup Hub - 22 December 2025
+* [Practical GenAI with Python: Beyond the Hype](https://www.youtube.com/live/-6kbMY_mOzw?si=YvP107tY38AXtMCQ) - Panel discussion at PyLadiesCon - 06 December 2025
 * [Hidden Figures of Python podcast: Episode 10](https://pypodcats.live/episodes/ep-10/) - 26 September 2025
 * PyLadies Amsterdam stand at [PyData Amsterdam Conference](https://amsterdam.pydata.org/) - 25-26 September 2025
 * Agentic AI Roundtable - Technical roundtable discussion participant - 09 July 2025
