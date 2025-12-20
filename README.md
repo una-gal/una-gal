@@ -6,6 +6,7 @@
 ## Events as a speaker and workshop giver
 
 ### 2026
+* TBA
 
 ### 2025
 * [Metrics, Traction & AI — Building Your 2026 Growth Strategy](https://github.com/una-gal/event-slides/blob/main/others/Metrics-traction-AI.pdf) - Workshop at Imaguru Startup Hub - 22 December 2025
