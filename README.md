@@ -6,7 +6,7 @@
 ## Events as a speaker and workshop giver
 
 ### 2026
-* TBA
+* [How PyLadies Is Shaping the Future of Python](https://lp.jetbrains.com/python-unplugged/) - Panel at Python Unplugged Free Online Conference - 04 March 2026
 
 ### 2025
 * [Metrics, Traction & AI — Building Your 2026 Growth Strategy](https://github.com/una-gal/event-slides/blob/main/others/Metrics-traction-AI.pdf) - Workshop at Imaguru Startup Hub - 22 December 2025
@@ -86,7 +86,11 @@
 ## Events as an organiser
 
 ### Workshops 2026
-* [Robotics beginner class with MicroPython](https://github.com/pyladiesams/robotics-with-micropython-jan2026) - 27 January 2026 
+* [MLOps Open Source Sprint at Adyen](https://www.meetup.com/pyladiesams/events/313200903/) - 27 February 2026
+* [Robotics beginner class with MicroPython](https://github.com/pyladiesams/robotics-with-micropython-jan2026) - 27 January 2026
+
+### Talks 2026
+* [PyTV x PyLadies Amsterdam speakers Meet and Greet](https://www.meetup.com/pyladiesams/events/313322734/) - 04 March 2026
 
 ### Workshops 2025
 * [Building an AI Agent](https://github.com/pyladiesams/building-ai-agents-nov2025) - 25 November 2025
