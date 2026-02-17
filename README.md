@@ -17,6 +17,7 @@
 * [Choose Your Own Workshop at DCND 2025](https://github.com/pyladiesams/workshop-of-choice-dcnd-jul2025) - Workshops of choice at Dutch Cloud Native Day - 03 July 2025
 * [AI in Finance 2025](https://github.com/pyladiesams/ai-in-finance-python-lecture-may2025) - Python hands-on lecture at UVA - 21 May 2025
 * [Metrics and early traction for startups](https://github.com/una-gal/event-slides/blob/main/others/Metrics-early-traction.pdf) - Workshop for AI4ALL Women Entrepreneur Program - 05 May 2025
+* [AI in the Workplace: Augmenting or Dwindling Human Skills?](https://www.rsm.nl/discovery/2025/ai-in-the-workplace/) - Blogpost of Rotterdam School of Management Erasmus University - 29 April 2025
 * [Evaluating LLM-based applications](https://github.com/pyladiesams/eval-llm-based-apps-jan2025) - Workshop at PyLadies Hamburg/Amsterdam - 16 January 2025
 
 ### 2024
