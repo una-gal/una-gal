@@ -6,6 +6,8 @@
 ## Events as a speaker and workshop giver
 
 ### 2026
+* [Metrics That Matter: What to Measure and How to Capture It](https://github.com/una-gal/event-slides/blob/main/others/Metrics-traction-AI.pdf) - Workshop for Imaguru Accelerator - 13 May 2026
+* [Metrics and early traction for startups](https://github.com/una-gal/event-slides/blob/main/others/Metrics-traction-AI.pdf) - Workshop for AI4ALL Women Entrepreneur Program - 07 May 2026
 * [How PyLadies Is Shaping the Future of Python](https://lp.jetbrains.com/python-unplugged/) - Panel at Python Unplugged Free Online Conference - 04 March 2026
 
 ### 2025
@@ -86,6 +88,7 @@
 ## Events as an organiser
 
 ### Workshops 2026
+* [AgentCamp Amsterdam 2026](https://github.com/pyladiesams/agentcamp-amsterdam-mar2026) - 23 April 2026
 * [MLOps Open Source Sprint at Adyen](https://www.meetup.com/pyladiesams/events/313200903/) - 27 February 2026
 * [Robotics beginner class with MicroPython](https://github.com/pyladiesams/robotics-with-micropython-jan2026) - 27 January 2026
 
